@@ -25,11 +25,21 @@
       }]
     },
     "work": [{
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
+      "name": "Involve",
+      "position": "Full Stack Developer Junior",
+      "url": "https://www.involve.es/",
+      "startDate": "2023-12-04",
+      "endDate": null,
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    }, {
+      "name": "Elternativa",
+      "position": "ETL Developer",
+      "url": "https://www.elternativa.com/",
+      "startDate": "2023-05-01",
+      "endDate": "2023-12-01",
       "summary": "Description…",
       "highlights": [
         "Started the company"
@@ -79,11 +89,19 @@
     }],
     "skills": [{
       "name": "Web Development",
-      "level": "Master",
+      "level": "Junior",
       "keywords": [
         "HTML",
         "CSS",
         "JavaScript"
+      ]
+    }, {
+      "name": "Deep Learning",
+      "level": "Junior",
+      "keywords": [
+        "Python",
+        "TensorFlow",
+        "Pytorch"
       ]
     }],
     "languages": [{
@@ -105,13 +123,15 @@
       "reference": "Reference…"
     }],
     "projects": [{
-      "name": "Project",
+      "name": "Road to art",
+      "isActive": false,
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
       "description": "Description...",
       "highlights": [
-        "Won award at AIHacks 2016"
+        "Won award at AIHacks 2017",
+        "Inactivo"
       ],
-      "url": "https://project.com/"
+      "url": "http://www.roadtoart.com/"
     }]
   }
